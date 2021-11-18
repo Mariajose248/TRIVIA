@@ -1,0 +1,122 @@
+[
+    {
+        "categoria": "Toy Story",
+        "pregunta": "¿Cómo se llamaba la pizzería en la que Woody y Buzz intentan encontrar a Andy?",
+        "respuesta": "Pizza Planet",
+        "incorrecta1": "Pizza World",
+        "incorrecta2": "Pizza Lanet",
+        "incorrecta3": "Pizza Hat",
+        "imagen": "https://c.tenor.com/3NjAble1EzcAAAAM/toy-story-pixar.gif",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "El Rey leon",
+        "pregunta": "¿Cuál es el primer animal que aparece en escena en El Rey León?",
+        "respuesta": "Un rinoceronte",
+        "incorrecta1": "Una jirafa",
+        "incorrecta2": "Un antílope",
+        "incorrecta3": "Una hiena",
+        "imagen": "http://www.okchicas.com/wp-content/uploads/2016/07/giphy-3-2.gif",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "La sirenita",
+        "pregunta": "Al inicio de La sirenita, ¿qué evento se pierde Ariel?",
+        "respuesta": "Un concierto",
+        "incorrecta1": "Un baile",
+        "incorrecta2": "Una coronación",
+        "incorrecta3": "Una fiesta",
+        "imagen": "https://c.tenor.com/4b_3qNflIXcAAAAM/ariel-little-mermaid.gif) ",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Rapunzel",
+        "pregunta": "¿Quién es la villana en Rapunzel?",
+        "respuesta": "Gothel",
+        "incorrecta1": "Lady Tremine",
+        "incorrecta2": "Ursula",
+        "incorrecta3": "Cruella",
+        "imagen": "https://i.giphy.com/media/12YXYjcczmQENy/giphy.gif ",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Mulan",
+        "pregunta": "¿De qué trabajo Mushu fue rebajado por los Ancestros?",
+        "respuesta": "Tocar el Gong",
+        "incorrecta1": "De ser guardián",
+        "incorrecta2": "De iluminar con la linterna",
+        "incorrecta3": "De cartero",
+        "imagen": "https://c.tenor.com/lqkbIygkp6UAAAAC/mushu-chinese.gif ",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Buscando a Nemo",
+        "pregunta": "¿Que tipo de pez era Nemo?",
+        "respuesta": "Un pez payaso",
+        "incorrecta1": "Un pez raya",
+        "incorrecta2": "Un pez espada",
+        "incorrecta3": "Un pez tropical",
+        "imagen": "https://c.tenor.com/RJ6vC6nfZ5sAAAAC/finding-nemo-nemo.gif ",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "El Rey Leon",
+        "pregunta": "¿Una estampida de qué animal causa la muerte de Mufasa?",
+        "respuesta": "de Ñus",
+        "incorrecta1": "de antilopes",
+        "incorrecta2": "de hienas",
+        "incorrecta3": "de Bisonte",
+        "imagen": "http://31.media.tumblr.com/tumblr_lm1hrgBzLd1qjt9p1o1_500.gif ",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Peter Pan",
+        "pregunta": "¿Como se llama los hermanos de Wendy en Peter Pan?",
+        "respuesta": "Jonh y Michael",
+        "incorrecta1": "Tom y Michael",
+        "incorrecta2": "Tom y Michel",
+        "incorrecta3": "Michel y Jair",
+        "imagen": "https://i.giphy.com/media/lDR0wnXboVr8c/giphy.gif",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Blancanieves",
+        "pregunta": "¿Cual de estos no es el nombre de uno de los 7 enanos?",
+        "respuesta": "Travieso",
+        "incorrecta1": "Gruñon",
+        "incorrecta2": "Feliz",
+        "incorrecta3": "Dormilon",
+        "imagen": "https://www2.pictures.crowdleap.com/mp/BVC0lXyvXw7x.jpg",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Pocahontas ",
+        "pregunta": "¿Qué animal Pocahontas no menciona en la canción Colores Del Viento?",
+        "respuesta": "Un alce",
+        "incorrecta1": "Un gato montes",
+        "incorrecta2": "Un lobo",
+        "incorrecta3": "Un conejo",
+        "imagen": "https://reygif.com/media/6/pocahontas-saludo-83409.gif",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Aladin ",
+        "pregunta": "El genio de Aladdin no podía matar a nadie, resucitar a los muertos ni... ",
+        "respuesta": "hacer que alguien se enamore de otra persona",
+        "incorrecta1": "hacer que alguien se olvide de otro alguien",
+        "incorrecta2": "hacer a alguien rey de agrabah ",
+        "incorrecta3": "hacer que alguien viaje al futuro",
+        "imagen": "https://www1.pictures.crowdleap.com/mp/M1cUUZPssXdx.gif",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Pinocho",
+        "pregunta": "¿Quién le concede el deseo de tener un hijo a Geppeto? ",
+        "respuesta": "El Hada Azul",
+        "incorrecta1": "Pepito Grillo. ",
+        "incorrecta2": "San Pinnocchio.",
+        "incorrecta3": "El dueño del Circo. ",
+        "imagen": " https://frikimaestro.com/wp-content/uploads/2019/12/Pinocho-portada-1024x575.jpg ",
+        "object_fit": "cover"
+    }
+]
